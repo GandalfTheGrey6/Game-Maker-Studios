@@ -134,7 +134,6 @@ function go() {
 
     const gibberish = 'whopping ' + number1 + ' ' + head1 + body1 + ', ' + number2 + ' ' + head2 + body2 + ', and ' + gibberishending + '.';
     console.log(gibberish)
-    alert(gibberish)
     
 
 
